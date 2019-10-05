@@ -1,5 +1,8 @@
 nf = 9; 
 n = ["icecream","banana","chocolate cake","lasagna", "steak","rice","chips","brocolli","beans"];
+d = ["saturday","sunday","monday","tuesday", "wednesday","thursday","friday"];
+c = ["breakfast","lunch","dinner"];
+
 dd = [| 1, 1200, 50, 10, 120, 400 % icecream 
       | 2, 800, 120, 5, 20, 120 % banana 
       | 3, 2500, 400, 20, 100, 600 % chocolate cake 
@@ -16,3 +19,5 @@ max_fat = 320;
 desserts = {1,2,3}; 
 mains = {4,5,9}; 
 sides = {6,7,8};
+
+budget=1500;
