@@ -1,0 +1,22 @@
+nf = 30; 
+n = ["icecream","banana","chocolate cake","apple","chocolate brownie","cheese cake","mango","doughnuts","chocolate cookies","pudding",
+"lasagna", "steak","rice with fish and dal","paratha-egg","kachchi biriany","khichuri","morog polao","grilled chicken with naan","beef curry","chicken fry",
+"chips","brocolli","beans","baked potatoes","cabbage","cauliflower","frenchfries","chicken rolls","vegetable rolls","coleslaw"];
+e = [1200,800,2500,600,2000, 2500,700,2200,2700,2200,3000,1800, 1600,1200, 1000,1000, 1000, 1400,1200, 2000, 2000, 700, 1900, 2000, 1500, 1500, 1900, 2000,1500,1200];
+p = [50, 120, 400, 100,400,400,120,400,500, 700,200, 800,50, 80, 70, 70, 70,  80, 400,300, 50, 100, 250,30,40, 40, 60, 250, 200,40];
+s = [10,  5, 20, 4,  20, 30, 10, 20, 40,10, 100, 50, 5, 5, 10,10,10, 15,55, 45, 200,10, 60, 50, 10,10, 60, 60, 50,40];
+f = [120, 20, 100,20, 100,120, 80,100, 130,150, 250,100, 20,10,100,200,100, 150,70,150, 200,10, 90,200,40,40,160,100,80,40];
+c = [400 , 120, 600, 200 , 600 , 600 , 400 , 600 , 500 , 300 , 450 , 100, 50, 30 , 200 , 100 , 200 , 250, 600 , 500 , 250 , 125, 150 , 200 ,150, 160 ,120 , 200 ,180,150];
+day = ["saturday","sunday","monday","tuesday", "wednesday","thursday","friday"];
+course = ["breakfast","lunch","dinner"];
+
+min_energy = 3300; 
+min_protein = 500; 
+max_salt = 180; 
+max_fat = 320; 
+desserts = {1,2,3,4,5,6,7,8,9,10}; 
+mains = {11,12,13,14,15,16,17,18,19,20}; 
+sides = {21,22,23,24,25,26,27,28,29,30};
+
+
+budget=1500;
